@@ -1,4 +1,4 @@
-module github.com/ctfang/http_build_query
+module github.com/uginroot/http_build_query
 
 go 1.16
 
